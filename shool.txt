@@ -1,0 +1,26 @@
+STT	
+Mã HSSV	
+Họ và Tên	
+Ngày sinh	
+Giới tính	
+Nơi sinh	
+Quê quán	
+Địa chỉ thường trú	
+Nghề đăng ký	
+Lớp	
+Số điện thoại học sinh	
+Điện thoại liên lạc	
+Trình độ	
+Giấy CN tốt nghiệp tại trường	
+Học lực	
+Hạnh kiểm	
+TK lớp 9 năm TN	
+Địa chỉ liên lạc	
+Dân tộc	Tôn giáo	
+Đối tượng	
+Khu vực	CMND	
+Ngày cấp	
+Nơi cấp	
+Họ và tên Cha	
+Họ và tên Mẹ	
+Ghi chú
